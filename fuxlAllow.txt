@@ -18,7 +18,7 @@ token.rubiconproject.com
 eus.rubiconproject.com
 sync.connectad.io
 eb2.3lift.com
-
+tpc.googlesyndication.com
 
 
 
