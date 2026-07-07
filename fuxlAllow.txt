@@ -6,7 +6,13 @@ cdn.servustv.com
 cdp-api.servustv.com
 rm.servustv.com
 data-cdd14ee8a7.servustv.com
-cdn.syndication.twimg.com
+firebaseinstallations.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+
+
 
 # Red Bull Plattform
 tv-api.redbull.com
