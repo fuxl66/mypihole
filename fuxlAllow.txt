@@ -11,7 +11,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
-
+cdn.syndication.twimg.com
 ib.adnxs.com
 acdn.adnxs.com
 token.rubiconproject.com
