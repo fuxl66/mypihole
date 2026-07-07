@@ -12,6 +12,14 @@ firebaselogging.googleapis.com
 crashlyticsreports-pa.googleapis.com
 firebase-settings.crashlytics.com
 
+ib.adnxs.com
+acdn.adnxs.com
+token.rubiconproject.com
+eus.rubiconproject.com
+sync.connectad.io
+eb2.3lift.com
+
+
 
 
 # Red Bull Plattform
